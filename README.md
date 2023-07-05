@@ -1,4 +1,4 @@
-# SQL_TSQL_Codes
+# SQL_TSQL_Codes_Reminder
 SQL(DDL, DML, functions, etc.), TSQL Codes with Technics
 
 Beginner, intermediate, and advanced level SQL and TSQL codes have been added as a reminder summary within the results of small-scale projects.
